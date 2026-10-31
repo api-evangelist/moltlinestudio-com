@@ -74,12 +74,52 @@ Everything profiled for moltlinestudio-com is published on APIs.io rather than i
 
 ### APIs (4)
 
-- moltlinestudio-com Agent Check API — The Agent Check API from moltlinestudio-com — 2 operation(s) for agent check.
-- moltlinestudio-com Auth.md API — The Auth.md API from moltlinestudio-com — 1 operation(s) for auth.md.
-- moltlinestudio-com Badge API — The Badge API from moltlinestudio-com — 1 operation(s) for badge.
-- moltlinestudio-com Premium API — The Premium API from moltlinestudio-com — 2 operation(s) for premium.
+- [moltlinestudio-com Agent Check API](https://apis.io/apis/moltlinestudio-com/moltlinestudio-com-agent-check-api/) — The Agent Check API from moltlinestudio-com — 2 operation(s) for agent check.
+- [moltlinestudio-com Auth.md API](https://apis.io/apis/moltlinestudio-com/moltlinestudio-com-auth-md-api/) — The Auth.md API from moltlinestudio-com — 1 operation(s) for auth.md.
+- [moltlinestudio-com Badge API](https://apis.io/apis/moltlinestudio-com/moltlinestudio-com-badge-api/) — The Badge API from moltlinestudio-com — 1 operation(s) for badge.
+- [moltlinestudio-com Premium API](https://apis.io/apis/moltlinestudio-com/moltlinestudio-com-premium-api/) — The Premium API from moltlinestudio-com — 2 operation(s) for premium.
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Moltlinestudio Com Agentic Access](https://apis.io/agentic-access/moltlinestudio-com/moltlinestudio-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [moltlinestudio-com API Rules](https://apis.io/rules/moltlinestudio-com/moltlinestudio-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Moltlinestudio Com Authentication](https://apis.io/security/moltlinestudio-com/moltlinestudio-com-authentication/)
+- [Moltlinestudio Com Domain Security](https://apis.io/security/moltlinestudio-com/moltlinestudio-com-domain-security/)
+- [Moltlinestudio Com Vulnerability Disclosure](https://apis.io/security/moltlinestudio-com/moltlinestudio-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Moltlinestudio Com Scopes](https://apis.io/scopes/moltlinestudio-com/moltlinestudio-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Moltlinestudio Com Plans Pricing](https://apis.io/plans/moltlinestudio-com/moltlinestudio-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Moltlinestudio Com Rate Limits](https://apis.io/rate-limits/moltlinestudio-com/moltlinestudio-com-rate-limits/)
 
 ## Where to find this API
 
@@ -96,7 +136,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/moltlinestudio-com/](https://apis.io/providers/moltlinestudio-com/).
+**Kin Score 50.6** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 42.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 51.7 |
+| Access clarity | 40.0 |
+
+**Agent readiness 59.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | self |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 37.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/moltlinestudio-com/](https://apis.io/providers/moltlinestudio-com/).
 
 ## How this profile is made
 
